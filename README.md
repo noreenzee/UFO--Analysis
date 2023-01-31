@@ -1,4 +1,6 @@
 # UFO--Analysis
+![image](https://user-images.githubusercontent.com/112978144/215654234-c9408d61-62f9-4aba-a0f2-a6c1a40a2855.png)
+
 # OverView of the Project
 In this challenge, a table is created to organize UFO data that is stored as a JavaScript array. The table have the ability to filter data according to assigned criteria and is created using JavaScript as a language tool. Filters are created to make this table fully dynamic,as it changed the table as HTML filtered, and then place the table into an HTML file for easy viewing.
 
