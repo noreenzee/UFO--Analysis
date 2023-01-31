@@ -55,7 +55,7 @@ In order to get the data in the column Using JavaScript,we were assign to replac
 * In Step 10, we rebuild the table with the filtered data by passing the variable created in Step 8.
 
 # summary
-In this challenge the main functions were to create filters, update filters and store filtered data. Variables are created to save changed elements and to save attributes of changed elements. FilterTable functions is used to filter table and finally a table is rebuild with a filtered data.
+In this challenge the main functions were to create filters, update filters and store filtered data. Variables are created to save changed elements and to save attributes of changed elements. FilterTable functions is used to filter table and finally a table is rebuild with a filtered data. By using this data someone like researchers or even anyone who is intereted in UFO's can plan their visit to go to the specific place to see UFO'S or can research on UFO's.
 * DrawBack
 One drawback of the new design is that the table we got is not in alphabetical order that is little confusing like if it appears in alphabetical order it might be helpful to go to the specific letter to find required result.
 Suggestions
